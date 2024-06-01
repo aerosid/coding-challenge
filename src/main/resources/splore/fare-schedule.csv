@@ -1,0 +1,5 @@
+#From, #To, #Peak, #off-Peak
+Green, Green, $2, $1
+Red, Red, $3, $2
+Green, Red, $4, $3
+Red, Green, $3, $2

@@ -1,0 +1,21 @@
+{
+  "java.jdt.ls.java.home": "/usr/lib/jvm/java-17-openjdk-amd64",
+	"maven.terminal.useJavaHome": true,
+	"files.exclude": {
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true,
+    "**/.classpath": true
+  },
+	"java.configuration.updateBuildConfiguration": "automatic",
+	"editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "java.implementationsCodeLens.enabled": true,
+  "java.server.launchMode": "Standard",
+  "java.configuration.runtimes": [
+     {
+      "name": "JavaSE-17",
+      "path": "/usr/lib/jvm/java-17-openjdk-amd64"
+     }
+  ],
+}
